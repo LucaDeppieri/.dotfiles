@@ -1,0 +1,17 @@
+font-family = "JetBrainsMono Nerd Font"
+font-size = 18
+
+theme = TokyoNight
+background-opacity = 0.7
+background-blur-radius = 50
+
+window-decoration = true
+window-padding-x = 14
+window-padding-y = 6
+window-padding-balance = true
+
+mouse-hide-while-typing = true
+
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor
