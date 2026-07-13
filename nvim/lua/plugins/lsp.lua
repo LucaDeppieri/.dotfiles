@@ -189,7 +189,7 @@ return {
 				"roslyn-language-server", -- c#
 				"sleek", -- sql
 				"angular-language-server", -- angular
-				-- "hyprls", -- hyprland (does not work?)
+				"rust-analyzer", -- rust
 
 				-- formatters
 				"stylua", -- lua
