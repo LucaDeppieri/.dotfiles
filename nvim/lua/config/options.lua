@@ -36,3 +36,5 @@ vim.o.clipboard = "unnamedplus"
 vim.o.sessionoptions = "blank,buffers,curdir,folds,help,tabpages,winsize,winpos,terminal,localoptions"
 vim.o.background = "dark"
 set.swapfile = false
+set.spelllang = { "en", "it" }
+set.spell = true
