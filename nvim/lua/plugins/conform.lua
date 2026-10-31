@@ -18,6 +18,7 @@ return {
 				jsonc = { "biome" },
 				css = { "prettierd", "prettier", stop_after_first = true },
 				html = { "prettierd", "prettier", stop_after_first = true },
+				htmlangular = { "prettierd", "prettier", stop_after_first = true },
 				sql = { "sleek" },
 				swift = { "swiftformat", formatting_options = { "--indent", "2" } },
 			},
