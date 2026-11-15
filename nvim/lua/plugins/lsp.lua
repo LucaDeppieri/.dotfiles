@@ -190,12 +190,13 @@ return {
 				"sleek", -- sql
 				"angular-language-server", -- angular
 				"rust-analyzer", -- rust
+				"java-language-server", -- java
 
 				-- formatters
 				"stylua", -- lua
 				"isort", -- python (imports)
 				"black", -- python
-				"clang-format", -- c, c++
+				"clang-format", -- c, c++, java
 				"csharpier", -- c#
 				"prettierd", -- css
 				"prettier", -- css
@@ -207,6 +208,7 @@ return {
 				-- fallback to roslyn-language-server for c#
 				"sqlfluff", -- sql
 				"swiftlint", -- swift
+				"checkstyle", -- java
 			}
 
 			vim.list_extend(ensure_installed, servers_to_install)

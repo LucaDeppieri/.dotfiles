@@ -14,6 +14,7 @@ return {
 				c = { "clang-format" },
 				cpp = { "clang-format" },
 				cs = { "csharpier " },
+				java = { "clang-format" },
 				json = { "biome" },
 				jsonc = { "biome" },
 				css = { "prettierd", "prettier", stop_after_first = true },

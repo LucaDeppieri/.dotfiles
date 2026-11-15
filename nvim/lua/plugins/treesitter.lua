@@ -28,6 +28,7 @@ return {
 			"cpp",
 			"cs",
 			"dart",
+			"java",
 			"xml",
 			"yaml",
 			"html",
