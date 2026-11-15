@@ -39,6 +39,7 @@ export PATH="/opt/homebrew/bin:$PATH"
 # Development variables
 export FLUTTER="$HOME/development/flutter/bin"
 export OPENJDK="/opt/homebrew/opt/openjdk@17/bin"
+export JAVA_HOME=$(/usr/libexec/java_home -v 21)
 export ANDROID_HOME="$HOME/Library/Android/sdk"
 export SDKMANAGER="$HOME/development/android_sdk/cmdline-tools/latest/bin"
 export DOTNET_TOOLS="$HOME/.dotnet/tools"
